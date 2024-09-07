@@ -1,0 +1,4 @@
+Dockerfile
+.train_data
+train_data
+compose.yaml

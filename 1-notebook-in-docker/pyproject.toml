@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "2-docker-in-book"
+version = "0.1.0"
+description = ""
+authors = ["hosimesi"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[tool.poetry.group.app.dependencies]
+jupyterlab = "^4.2.5"
+scikit-learn = "^1.5.1"
+pandas = "^2.2.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
