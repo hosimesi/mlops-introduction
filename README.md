@@ -1,5 +1,5 @@
 # mlops-introduction
-This Repository is used in the MLOps part of the CA 1Day Youth Boot Camp held on September 28, 2024 at CyberAgent.
+This Repository is used in the MLOps part of the CA 1Day Youth Boot Camp held on September 26, 2024 at CyberAgent.
 [The first part](https://github.com/hosimesi/mlops-introduction/blob/main/1-notebook-in-docker) is an introduction to docker that puts the pre-created Notebook into docker.
 [The second part](https://github.com/hosimesi/mlops-introduction/blob/main/2-docker-mlflow) is about experiment management using MLflow.
 
