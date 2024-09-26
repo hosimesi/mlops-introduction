@@ -3,7 +3,7 @@ This Repository is used in the MLOps part of the CA 1Day Youth Boot Camp held on
 [The first part](https://github.com/hosimesi/mlops-introduction/blob/main/1-notebook-in-docker) is an introduction to docker that puts the pre-created Notebook into docker.
 [The second part](https://github.com/hosimesi/mlops-introduction/blob/main/2-docker-mlflow) is about experiment management using MLflow.
 
-Slide: path to link
+Slide: https://speakerdeck.com/hosimesi11/2024nian-du-ca-1day-youth-boot-camp-mlops
 
 ## Prerequisites
 | Software         | Install (Mac)                |
